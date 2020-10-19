@@ -1,2 +1,0 @@
-# MainShop
-internet magazin
